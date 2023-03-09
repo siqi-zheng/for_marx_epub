@@ -3,7 +3,9 @@
 The purpose of this project is to use simple HTML and CSS to create an offline version of [*For Marx*](https://www.marxists.org/reference/archive/althusser/1965/index.htm) on the *Louis Althusser Archive* under *Marxists Internet Archive*
 
 
-## *For Marx* by Louis Althusser Epub Version Change Catalog 
+## *For Marx* by Louis Althusser Epub Version Changelog 
+
+\+ Modify id to the appropriate MIA link
 
 \+ Add a reference section and in-text citations for part 3 manually (total 28 entries)
 
@@ -17,6 +19,6 @@ The purpose of this project is to use simple HTML and CSS to create an offline v
 
 \+ Add the dedication paragraph from the printed version  
 
-\+ Add transcriber notes about the missingfootnote 34 on part 3
+\+ Add transcriber notes about the missingfootnote 34 on part 3 and part 6
 
 \+ Use simple `css` for consistency without loss of emphasis
