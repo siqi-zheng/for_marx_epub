@@ -19,6 +19,6 @@ The purpose of this project is to use simple HTML and CSS to create an offline v
 
 \+ Add the dedication paragraph from the printed version  
 
-\+ Add transcriber notes about the missingfootnote 34 on part 3 and part 6
+\+ Add transcriber notes about the missingfootnote 34 on part 3 and misprint in part 6
 
 \+ Use simple `css` for consistency without loss of emphasis
