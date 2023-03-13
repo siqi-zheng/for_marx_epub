@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>For Marx</dc:title>
+    <dc:creator opf:file-as="Althusser, Louis" opf:role="aut">Louis Althusser</dc:creator>
+    <dc:identifier id="BookId" opf:scheme="URI">HR6E2S9b-</dc:identifier>
+    <dc:publisher>Marxists Internet Archive</dc:publisher>
+    <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;For Marx&lt;/em&gt; (&lt;em&gt;Pour Marx&lt;/em&gt;) is a 1965 book by the philosopher Louis Althusser, a leading theoretician of the French Communist Party (PCF), in which the author reinterprets the work of the philosopher Karl Marx, proposing an epistemological break between the young, Hegelian Marx, and the old Marx, the author of Das Kapital (1867–1883). &lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:coverage/>
+    <dc:source/>
+    <dc:date opf:event="publication">2023</dc:date>
+    <dc:date>2023-03-02T05:00:00+00:00</dc:date>
+    <dc:rights/>
+    <dc:contributor opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Philosophy</dc:subject>
+    <dc:subject>Political</dc:subject>
+    <dc:subject>Criticism</dc:subject>
+    <dc:subject>Essays</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">6c004df6-488e-4d86-9a82-9ce6ac81f9e2</dc:identifier>
+    <dc:identifier opf:scheme="HTTPS">//www.marxists.org/reference/archive/althusser/1965/index.htm</dc:identifier>
+    <dc:date opf:event="modification">2023-03-12</dc:date>
+    <meta content="For Marx" name="calibre:title_sort"/>
+    <meta content="{&quot;Louis Althusser&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="2023-03-09T07:49:38.543613+00:00" name="calibre:timestamp"/>
+    <meta name="cover" content="cover"/>
+    <meta content="1.9.20" name="Sigil version"/>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="content/titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s0" href="content/s0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="toc" href="content/toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s1" href="content/s1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s2" href="content/s2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s3" href="content/s3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s4" href="content/s4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s5" href="content/s5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s6" href="content/s6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s7" href="content/s7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s8" href="content/s8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s9" href="content/s9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="s10" href="content/s10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="navigation.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="css" href="css/ebook.css" media-type="text/css"/>
+    <item id="cover" href="cover.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="s0"/>
+    <itemref idref="toc"/>
+    <itemref idref="s1"/>
+    <itemref idref="s2"/>
+    <itemref idref="s3"/>
+    <itemref idref="s4"/>
+    <itemref idref="s5"/>
+    <itemref idref="s6"/>
+    <itemref idref="s7"/>
+    <itemref idref="s8"/>
+    <itemref idref="s9"/>
+    <itemref idref="s10"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="content/titlepage.xhtml"/>
+  </guide>
+</package>
