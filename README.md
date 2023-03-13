@@ -8,7 +8,9 @@ The purpose of this project is to use simple HTML and CSS to create an offline v
 
 \+ Add Appendix to Part 3
 
-\+ Run Check and beautify all HTML files 
+\+ Run Check and beautify all HTML files with Calibre
+
+\+ Put all text files under the same folder so that the book can be opened correctly using Apple Books
 
 ## *For Marx* by Louis Althusser Epub Version Changelog (2023-03-11)
 
