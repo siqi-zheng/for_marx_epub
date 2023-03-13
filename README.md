@@ -2,6 +2,10 @@
 
 The purpose of this project is to use simple HTML and CSS to create an offline version of [*For Marx*](https://www.marxists.org/reference/archive/althusser/1965/index.htm) on the *Louis Althusser Archive* under *Marxists Internet Archive*
 
+## Download the book
+
+Download the 'For Marx...' folder, zip it and change the suffix from .zip to .epub. Happy reading!
+
 ## *For Marx* by Louis Althusser Epub Version 2 Changelog (2023-03-12)
 
 \+ Remove Further Reading in Part 3 because the links direct users to MIA webpages instead of book chapters
